@@ -6,7 +6,7 @@
 **Steps**
     * Clone the Repository   
       * git clone https://github.com/yourusername/campus-olx.git
-      * cd travo-app
+      * cd campus-olx
         
     * Install Backend Dependencies
        * cd backend
